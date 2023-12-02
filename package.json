@@ -1,0 +1,15 @@
+{
+  "name": "com.sharelib.logviewer",
+  "version": "1.8.0",
+  "displayName": "Unity Log Viewer",
+  "description": "Unity package for check unity runtime log .",
+  "category": "Runtime",
+  "keywords": [
+    "log viewer"
+  ],
+  "author": {
+    "name": "AlianBlank",
+    "email": "wangfj11@foxmail.com",
+    "url": "https://github.com/AlianBlank"
+  }
+}
